@@ -1,0 +1,14 @@
+1. Keep Instance In Room
+
+Project Outline:
+	To keep x and y values within a certain range to prevent an instance leaving the room borders.
+
+Useful Functions and Built-in Variables:
+	clamp
+	keyboard_check
+
+Hints on Tackling This Assignment:
+	Using clamp you can keep a value within the range
+	of two other given values. Allow keyboard input to
+	change the x and y positions of an instance, using
+	clamp to keep it in the room.
