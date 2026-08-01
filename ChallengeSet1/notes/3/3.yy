@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"v1",
+  "%Name":"3",
+  "name":"3",
+  "parent":{
+    "name":"ChallengeSet1",
+    "path":"ChallengeSet1.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

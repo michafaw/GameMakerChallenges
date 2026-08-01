@@ -1,17 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"objMenuControl",
+  "%Name":"obj3_SaveControl",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"objMenuControl",
+  "name":"obj3_SaveControl",
   "overriddenProperties":[],
   "parent":{
-    "name":"Menu_and_Title",
-    "path":"folders/Menu_and_Title.yy",
+    "name":"ChallengeSet1",
+    "path":"ChallengeSet1.yyp",
   },
   "parentObjectId":null,
   "persistent":false,
