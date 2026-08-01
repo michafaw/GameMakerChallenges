@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"v1",
+  "%Name":"ChallengeTemplate",
+  "name":"ChallengeTemplate",
+  "parent":{
+    "name":"Templates",
+    "path":"folders/Templates.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

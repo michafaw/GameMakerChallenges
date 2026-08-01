@@ -1,0 +1,13 @@
+1. Challenge Title
+
+Difficulty 1/5
+
+Project Outline:
+	To get stuff done.
+
+Useful Functions and Built-in Variables:
+	clamp
+	keyboard_check
+
+Hints on Tackling This Assignment:
+	You can do certain things to make it easier.
