@@ -1,17 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj3_Player",
+  "%Name":"obj4_Enemy",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj3_Player",
+  "name":"obj4_Enemy",
   "overriddenProperties":[],
   "parent":{
-    "name":"Challenge 3",
-    "path":"folders/Challenge 3.yy",
+    "name":"Challenge 4",
+    "path":"folders/Challenge 4.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprTemplatePlayer",
-    "path":"sprites/sprTemplatePlayer/sprTemplatePlayer.yy",
+    "name":"sprTemplateEnemy",
+    "path":"sprites/sprTemplateEnemy/sprTemplateEnemy.yy",
   },
   "spriteMaskId":null,
   "visible":true,

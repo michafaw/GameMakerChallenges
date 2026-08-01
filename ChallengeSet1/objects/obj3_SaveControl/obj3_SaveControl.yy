@@ -10,8 +10,8 @@
   "name":"obj3_SaveControl",
   "overriddenProperties":[],
   "parent":{
-    "name":"ChallengeSet1",
-    "path":"ChallengeSet1.yyp",
+    "name":"Challenge 3",
+    "path":"folders/Challenge 3.yy",
   },
   "parentObjectId":null,
   "persistent":false,

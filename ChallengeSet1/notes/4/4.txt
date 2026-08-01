@@ -1,0 +1,20 @@
+4. Seeking Missile
+
+Difficulty 4/5
+
+Project Outline:
+	Allow user to click to spawn a missile that flies towards to the position of the nearest enemy, by
+	gradually changing its flight angle. Destroy enemy and missile upon collision.
+
+Useful Functions and Built-in Variables:
+	instance_nearest
+	instance_exists
+	angle_difference
+	instance_destroy
+	instance_create_layer
+	image_angle
+
+Hints on Tackling This Assignment:
+	Allow some basic input to change a level variable
+	between true and false. Save an load this variable to
+	an ini file. Draw level status using draw_text.
