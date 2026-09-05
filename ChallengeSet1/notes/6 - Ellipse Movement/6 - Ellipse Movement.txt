@@ -1,0 +1,17 @@
+6. Ellipse Movement
+
+Difficulty 4/5
+
+Project Outline:
+	Use some basic maths to make an instance move around on an elliptical path.
+
+Useful Functions and Built-in Variables:
+	sin
+	cos
+	pi
+	if
+	else
+
+Hints on Tackling This Assignment:
+	Look up some basic trigonometry using the math 
+	functions.

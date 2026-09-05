@@ -4,4 +4,4 @@ draw_set_colour(c_white)
 draw_set_halign(fa_center)
 draw_set_valign(fa_middle)
 
-draw_text(room_width/2, room_height/2, "Press the number for the challenge (1-5)");
+draw_text(room_width/2, room_height/2, "Press the number for the challenge (1-6)");
