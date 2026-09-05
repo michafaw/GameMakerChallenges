@@ -1,0 +1,18 @@
+7. Draw Contents Of 2D Array
+
+Difficulty 2/5
+
+Project Outline:
+	To draw a grid containing the data taken from a 2 dimensional array. Populate this array with the 
+	2 times table.
+
+Useful Functions and Built-in Variables:
+	draw_text
+	for
+	draw_rectangle
+	draw_set_colour
+
+Hints on Tackling This Assignment:
+	Loop through two for loops by creating a nested loop.
+	Use these values to both access data in the array and
+	to draw it.

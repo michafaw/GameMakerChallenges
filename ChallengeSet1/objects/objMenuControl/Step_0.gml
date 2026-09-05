@@ -20,6 +20,9 @@ if (keyboard_check_pressed(ord("1"))) {
 } else if (keyboard_check_pressed(ord("6"))) {
 	show_debug_message("[Notice] Menu: Going to Challenge 6");
 	room_goto(room6);
+} else if (keyboard_check_pressed(ord("7"))) {
+	show_debug_message("[Notice] Menu: Going to Challenge 7");
+	room_goto(room7);
 }
 
 
